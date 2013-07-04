@@ -1,6 +1,6 @@
 #The Scientific Calculator
 
-The Scientific Calculator is a calculator then implements arithmetic operations in different number systems.
+The Scientific Calculator is a calculator that implements arithmetic operations in different number systems.
 
 ##Features
 
